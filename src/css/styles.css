@@ -119,3 +119,22 @@ input:focus {
 .search-btn:focus {
   background-color: #6c8cff;
 }
+
+.load-more-btn {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+  border-radius: 8px;
+  width: 125px;
+  height: 40px;
+  border: none;
+  background-color: #4e75ff;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+
+.load-more-btn:hover,
+.load-more-btn:focus {
+  background-color: #6c8cff;
+}
